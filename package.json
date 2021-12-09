@@ -12,6 +12,9 @@
     "login"
   ],
   "author": "bingbingbai",
-  "license": "GNU"
-  ""
+  "license": "GNU",
+  "git repository": "https://github.com/yzzgddcc/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
